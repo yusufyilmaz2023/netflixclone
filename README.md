@@ -11,3 +11,4 @@ Bu proje, Netflix'in bir klonunu HTML ve CSS kullanarak oluşturmayı amaçlamak
 ![Netflix Clone Önizleme](netflix.gif)
 
 # netflixclone
+# netflixclone
